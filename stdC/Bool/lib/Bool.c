@@ -1,0 +1,5 @@
+#include "Bool/include/Bool.h"
+#include "Bool/lib/fn/True.c"
+#include "Bool/lib/fn/False.c"
+#include "Bool/lib/fn/is_true.c"
+#include "Bool/lib/fn/import_Bool.c"
